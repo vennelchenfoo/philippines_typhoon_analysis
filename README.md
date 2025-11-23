@@ -205,7 +205,7 @@ Features:
 
 ### Streamlit Application
 
-[Streamlit]https://philippinestyphoonanalysis-givmhaeuxgrljwqsw82npx.streamlit.app/
+[[Streamlit](https://philippinestyphoonanalysis-givmhaeuxgrljwqsw82npx.streamlit.app/)]
 ```
 
 ---
