@@ -1,0 +1,5 @@
+event,year,region,rainfall_mm_24h,deaths,displaced,damage_usd,gdp_percent,event_frequency,category,damage_billions,displaced_thousands
+Ahrtal Valley Flood,2021,Germany,154,180,40000,33000000000.0,0.29,1-in-500 years,European Benchmark,33.0,40.0
+Storm Ciara,2020,Europe,80,14,5000,2700000000.0,0.02,1-in-10 years,European Benchmark,2.7,5.0
+Typhoon Ketsana (Ondoy),2009,Philippines,455,464,560000,237000000.0,0.14,Annual risk,Philippine Reality,0.237,560.0
+Typhoon Haiyan (Yolanda),2013,Philippines,200,7354,4000000,10000000000.0,4.7,Annual risk,Philippine Reality,10.0,4000.0

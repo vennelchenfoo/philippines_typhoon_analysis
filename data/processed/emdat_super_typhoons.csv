@@ -1,0 +1,8 @@
+storm_name,year,peak_winds_kmh,pressure_hpa,category,notable,deaths,affected,damage_usd,damage_billions
+Haiyan (Yolanda),2013,315,895,Super Typhoon (Cat 5),Strongest landfalling cyclone on record,7354.0,16106870.0,10000000000.0,10.0
+Bopha (Pablo),2012,280,930,Super Typhoon (Cat 5),Devastating Mindanao strike,1901.0,6246664.0,898352000.0,0.898352
+Rai (Odette),2021,260,915,Super Typhoon (Cat 5),Rapid intensification case study,457.0,10608996.0,915271000.0,0.915271
+Noru (Karding),2022,250,935,Super Typhoon (Cat 5),+170 km/h in 24 hours - Extreme RI,,,,
+Washi (Sendong),2011,130,978,Tropical Storm,Mindanao flooding disaster,1439.0,1150300.0,38082000.0,0.038082
+Thelma (Uring),1991,75,994,Tropical Storm,Deadliest Philippine storm - flash floods,5956.0,647254.0,100000000.0,0.1
+Tembin (Vinta),2017,120,975,Tropical Storm,Southern Mindanao landslides,,,,

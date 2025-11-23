@@ -1,0 +1,7 @@
+metric,value,interpretation
+Storm Count Trend (storms/year),-0.0602,Stable/Slightly declining frequency
+Intensity Trend (units/year),0.0017,INCREASING intensity per storm
+Average Storms per Year,15.9,Reference line for frequency chart
+Total Category 5 Storms,75.0,Super typhoon occurrences
+1980s Average Intensity,0.79,Baseline decade
+2020s Average Intensity,0.86,Current decade - higher intensity
