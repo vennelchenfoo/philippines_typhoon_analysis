@@ -205,21 +205,7 @@ Features:
 
 ### Streamlit Application
 
-Run locally:
-```bash
-# Clone repository
-git clone https://github.com/yourusername/philippines-typhoon-analysis.git
-cd philippines-typhoon-analysis
-
-# Create virtual environment
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run app
-streamlit run src/app.py
+[Streamlit]https://philippinestyphoonanalysis-givmhaeuxgrljwqsw82npx.streamlit.app/
 ```
 
 ---
@@ -271,7 +257,7 @@ jupyter notebook notebooks/01_emdat_preparation.ipynb
 jupyter notebook notebooks/02_ibtracs_preparation.ipynb
 
 # 6. Launch Streamlit app
-streamlit run src/app.py
+[Streamlit App]
 ```
 
 ### Requirements
@@ -333,7 +319,7 @@ Data sources retain their original licenses:
 - LinkedIn: [[LinkedIn](https://www.linkedin.com/in/vennelchenfoo/)]
 - GitHub: [[Your GitHub Profile](https://github.com/vennelchenfoo)]
 - Email: [vennel@vennelchenfoo.me]
-- Portfolio [vennelchenfoo.me]
+- Portfolio [[vennelchenfoo.me](https://vennelchenfoo.me/)]
 
 ---
 
